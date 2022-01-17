@@ -4,19 +4,19 @@
 // console.log(b);
 // document.write(b);
 
-// console.log(document.URL);
+console.log(document.URL);
 
 // console.log("Anton");
-// let name1 = "Anton";
+let name1 = "Anton";
 // console.log(name1);
-// let age = 28;
+let age = 28;
 // console.log(age);
 // let job = "Trainer";
 // console.log(job);
-// var married = true;
-// console.log(married);
+var married = true;
+console.log(married);
 
-// console.log(name1 + "ist " + age + " Jahre alt und ist verheiratet.")
+console.log(name1 + "ist " + age + " Jahre alt und ist verheiratet." + married)
 
 
 
@@ -103,20 +103,20 @@
 
 
 // //////////  Aufgabe 1_11 String Methods //////////////
-var x = "Hello "
-var y = "World<br>"
+// var x = "Hello "
+// var y = "World<br>"
 
-var z = x + y;
-document.write(z);
+// var z = x + y;
+// document.write(z);
 
-var n = x + " " + y;
-document.write(n);
+// var n = x + " " + y;
+// document.write(n);
 
-document.write(x + "World");
+// document.write(x + "World");
 
-var meinString = "Ich bin Erster";
-meinString = meinString + " und ich komme auf Platz zwei."
-console.log(meinString);
+// var meinString = "Ich bin Erster";
+// meinString = meinString + " und ich komme auf Platz zwei."
+// console.log(meinString);
 
 
 
